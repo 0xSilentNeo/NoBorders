@@ -36,7 +36,8 @@ You can copy that single .exe anywhere you like (e.g. `C:\Tools\NoBorder\`)
 
 ## Before/After
 
-
+![Before](Images/Before.png)
+![After](Images/After.png)
 
 ## Usage
 
