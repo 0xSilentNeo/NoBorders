@@ -1,4 +1,7 @@
 # NoBorder
+# USE IT AT YOUR OWN RISK.
+
+NOTE: This is a somewhat vibecoded personal project that I decided to share.
 
 Removes the white DWM border that appears around windows on Windows 11
 (most noticeable when snapping windows side by side), using the documented
