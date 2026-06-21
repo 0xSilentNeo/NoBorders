@@ -34,6 +34,10 @@ bin\Release\net8.0-windows\NoBorder.exe
 You can copy that single .exe anywhere you like (e.g. `C:\Tools\NoBorder\`)
 — it has no other dependencies.
 
+## Before/After
+
+
+
 ## Usage
 
 Run from a terminal, or just double-click for `--once`-style usage isn't
