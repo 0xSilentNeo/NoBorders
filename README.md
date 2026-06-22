@@ -1,11 +1,9 @@
-# NoBorder
 # USE IT AT YOUR OWN RISK.
 
 NOTE: This is a somewhat vibecoded personal project that I decided to share.
 
-Removes the white DWM border that appears around windows on Windows 11
-(most noticeable when snapping windows side by side), using the documented
-`DWMWA_BORDER_COLOR` window attribute (`DWMWA_COLOR_NONE`).
+Removes the white border that appears around windows on Windows 11
+(most noticeable when snapping windows side by side).
 
 This is unrelated to the `BorderWidth` / `PaddedBorderWidth` registry values —
 those control the resize-grab area, not the accent border DWM paints around
